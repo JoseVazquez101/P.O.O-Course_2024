@@ -1,23 +1,5 @@
 
-<h1>Clase Date. Tarea 1</h1>
-
-
-
-
-
-
-![[Pasted image 20240131173440.png]]
-
-
-
-
-- **Nombre:** José Manuel Rodriguez Vázquez
-- **Materia**: Programación Orientada a Objetos
-- **Carrerea**: Ingeniería en Ciberseguridad
-
-
-
-
+<h1>Clase Date 1</h1>
 
 ***
 
@@ -29,7 +11,7 @@
 
 - Esto a través de una `UML` específica con esta forma:
 
-  ![[Pasted image 20240131173104.png]]
+![image](https://github.com/JoseVazquez101/P.O.O-Course_2024/assets/111292579/68bb7462-9f16-47f6-9e3d-3d485aa32358)
 
 ***
 <h3>Clase Date:</h3>
@@ -245,7 +227,7 @@ public class TestDate {
         System.out.println("d1 es igual a d5: " + d1.equals(d5));  
 ~~~
 
-![[Pasted image 20240131173226.png]]
+![image](https://github.com/JoseVazquez101/P.O.O-Course_2024/assets/111292579/1449214f-b339-4ab5-ab34-c70c1f182158)
 
 - Imprimir valores de `d1, d2, d3, d4, d5`:
 
@@ -266,4 +248,5 @@ public class TestDate {
 ~~~
 
 - Capturas `d1-d5`:
-![[Pasted image 20240131173253.png]]
+  
+![image](https://github.com/JoseVazquez101/P.O.O-Course_2024/assets/111292579/1c3e3d99-93c1-4e2d-a619-edf682ca0f6a)
