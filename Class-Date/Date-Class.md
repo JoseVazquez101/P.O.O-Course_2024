@@ -1,5 +1,5 @@
 
-<h1>Clase Date 1</h1>
+<h1>Clase Date: 1</h1>
 
 ***
 
